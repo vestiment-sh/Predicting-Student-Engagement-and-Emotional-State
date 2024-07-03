@@ -1,5 +1,5 @@
 # Predicting Student Engagement and Emotional State
-
+<img src="images/student.png" alt="Student Insight Logo" width="500" height="500">
 This project aims to analyze and visualize student engagement and emotional states based on a dataset containing various features such as free time, sleep, and perceived strictness. By utilizing data visualization techniques, the project provides insights into how these factors correlate with students' emotional states.
 
 ## Project Overview
